@@ -1,4 +1,4 @@
-## Lista com recomendações de profissionais e lojas em toda a Alemanha :book:
+## Lista com recomendações úteis por toda a Alemanha :book:
 
 :exclamation: :exclamation: Para encontrar profissionais de determinada localidade, role até o final e clique na região desejada. :exclamation: :exclamation:
 #
