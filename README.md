@@ -64,7 +64,7 @@
 - #### [Stuttgart e região](https://github.com/gabrielbahniuk/deutschland-awesome-list/blob/master/Stuttgart.md)
 
 #
-Tem alguma sugestão, inclusive para outras regiões? Entre em contato:
+Tem alguma sugestão, inclusive para outras regiões? Entre em contato :point_down:
 - [E-mail](mailto:gabrieldiasbnu@hotmail.com)
 - [Facebook](https://www.facebook.com/gabrieldiasbnu)
 - [Whatsapp](https://api.whatsapp.com/send?phone=4917687833474)
