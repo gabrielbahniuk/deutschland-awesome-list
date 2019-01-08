@@ -1,6 +1,5 @@
-## Lista de recomendações de lojas e profissionais em toda a Alemanha.
+## Localidade: **Stuttgart e região**
 
-#### :exclamation: :exclamation: No caso de profissionais indicados, o foco será Stuttgart e região, por ora.
 #
 #### Advocacia (Anwälte) :mortar_board:
 
