@@ -1,6 +1,6 @@
 ## Lista com recomendações úteis por toda a Alemanha :book:
 
-:exclamation: :exclamation: Para encontrar profissionais de determinada localidade, role até o final e clique na região desejada. :exclamation: :exclamation:
+:exclamation: :exclamation: Para encontrar algo em determinada localidade, role até o final e clique na região desejada. :exclamation: :exclamation:
 #
 #### Advocacia (Anwälte) :mortar_board:
 
@@ -60,7 +60,7 @@
 
 - [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 #
-### Profissionais por região:
+### Por região:
 - #### [Stuttgart e região](https://github.com/gabrielbahniuk/deutschland-awesome-list/blob/master/Stuttgart.md)
 
 #
