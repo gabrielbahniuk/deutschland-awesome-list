@@ -65,9 +65,3 @@
 ###### Sites para móveis usados:
 
 - [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
-
-#
-Tem alguma sugestão para adicionar ou alterar na lista? Me escreva aqui :point_down:
-- [E-mail](mailto:gabrieldiasbnu@hotmail.com)
-- [Facebook](https://www.facebook.com/gabrieldiasbnu)
-- [Whatsapp](https://api.whatsapp.com/send?phone=4917687833474)
