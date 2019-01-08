@@ -1,5 +1,5 @@
-## Lista com recomendações de profissionais e principais lojas em toda a Alemanha :book:
-:exclamation: :exclamation: Para encontrar recomendações de profissionais de determinada área, role até o final e clique na região desejada. :exclamation: :exclamation:
+## Lista com recomendações de profissionais e lojas em toda a Alemanha :book:
+:exclamation: :exclamation: Para encontrar recomendações de profissionais de determinada localidade, role até o final e clique na região desejada. :exclamation: :exclamation:
 
 #### Advocacia (Anwälte) :mortar_board:
 
