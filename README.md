@@ -66,7 +66,7 @@
 
 ###### Sites para móveis usados:
 
-- [WG-Gesucht](https://wg-gesucht.de)
+- [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 
 #
 Tem alguma sugestão para adicionar ou alterar na lista? Me escreva aqui :point_down:
