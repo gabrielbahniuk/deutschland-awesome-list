@@ -1,6 +1,5 @@
 ## Localidade: **Stuttgart e região**
 
-#
 #### Advocacia (Anwälte) :mortar_board:
 
 ###### Site/App: [Anwalt24](https://anwalt24.de)
