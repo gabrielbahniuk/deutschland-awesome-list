@@ -1,7 +1,7 @@
 ## Lista de recomendações de lojas e profissionais em toda a Alemanha.
 
 #### :exclamation: :exclamation: No caso de profissionais indicados, o foco será Stuttgart e região, por ora.
-
+#
 #### Advocacia (Anwälte) :mortar_board:
 
 ###### Site/App: [Anwalt24](https://anwalt24.de)
