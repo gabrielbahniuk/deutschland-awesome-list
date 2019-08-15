@@ -1,10 +1,13 @@
 ## Lista com recomendações úteis por toda a Alemanha :book:
 
 :exclamation: :exclamation: Para encontrar algo em determinada localidade, role até o final e clique na região desejada. :exclamation: :exclamation:
+
 #
+
 #### Advocacia (Anwälte) :mortar_board:
 
 ###### Site/App: [Anwalt24](https://anwalt24.de)
+
 #
 
 #### Automóvel (Auto) :car:
@@ -13,9 +16,10 @@
 
 - [AutoScout24](https://autoscout24.de)
 
-###### Leasing de automóvel: 
+###### Leasing de automóvel:
 
 - [Gute-Rate Fahrzeuge](https://www.gute-rate.de/Fahrzeuge)
+
 #
 
 #### Diversos (Verschiedene) :video_camera: :shower: :bicyclist: :computer:
@@ -24,6 +28,7 @@
 
 - [Amazon](https://www.amazon.de/)
 - [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
+
 #
 
 #### Eletrônicos e Eletrodomésticos (Elektronik und Haushaltsgeräte) :computer: :camera:
@@ -32,7 +37,9 @@
 
 - [MediaMarkt](https://www.mediamarkt.de/)
 - [Saturn](https://www.saturn.de/)
+
 #
+
 #### Imóveis para alugar (Wohnung/WG mieten) :house:
 
 ###### Sites para alugar ou comprar:
@@ -43,12 +50,15 @@
 ###### Sites para alugar moradia compartilhada (WG - Wohngemeinschaft)
 
 - [WG-Gesucht](https://wg-gesucht.de)
+
 #
+
 #### Médicos e Especialistas (Ärzte und Spezialisten) :hospital: :mask:
 
 ###### Site/App: [Jameda](https://www.jameda.de/)
 
 #
+
 #### Móveis (Möbel) :bathtub:
 
 ###### Sites para móveis novos:
@@ -59,12 +69,15 @@
 ###### Sites para móveis usados:
 
 - [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
+
 #
+
 ### Por região:
+
 - #### [Stuttgart e região](https://github.com/gabrielbahniuk/deutschland-awesome-list/blob/master/Stuttgart.md)
 
 #
+
 Tem alguma sugestão, inclusive para outras regiões? Entre em contato :point_down:
-- [E-mail](mailto:gabrieldiasbnu@hotmail.com)
-- [Facebook](https://www.facebook.com/gabrieldiasbnu)
-- [Whatsapp](https://api.whatsapp.com/send?phone=4917687833474)
+
+- [E-mail](mailto:hi@thegabriel.dev)
