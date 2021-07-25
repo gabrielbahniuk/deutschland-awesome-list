@@ -1,5 +1,9 @@
 # Lista útil válida para a Alemanha :de: :book:
 
+### Objetivo
+Esta lista tem por único objetivo facilitar a vinda de brasileiros(as) ou falantes da lingua portuguesa para a Alemanha.
+
+### Lista
 - [Advocacia](./pt_br/pages/advocacia.md)
 - [Automóveis](./pt_br/pages/automoveis.md)
 - [Comidas Brasileiras](./pt_br/pages/comidas-brasileiras.md)
@@ -8,3 +12,6 @@
 - [Imóveis](./pt_br/pages/imoveis.md)
 - [Produtos & Serviços](./pt_br/pages/produtos-e-servicos.md)
 - [Saúde](./pt_br/pages/saude.md)
+
+### Contribua!
+Tem alguma sugestão? [Clique aqui!](./CONTRIBUTING.md)
