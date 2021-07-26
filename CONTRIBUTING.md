@@ -1,3 +1,14 @@
 ### Contribuindo com o repositório
 
-Para contribuir você pode abrir uma nova issue [Aqui](https://github.com/gabrielbahniuk/deutschland-awesome-list/issues/new) e fazer sua sugestão de mudança ou melhoria.
+Toda contribuição é bem-vinda.
+
+---
+
+#### Você pode contribuir:
+- ##### abrindo uma issue
+
+Abra sua issue [aqui](https://github.com/gabrielbahniuk/deutschland-awesome-list/issues/new) e envie sua sugestão de mudança ou melhoria.
+
+- ##### enviando seu PR
+
+Forke o projeto e abra um [Pull Request](https://github.com/gabrielbahniuk/deutschland-awesome-list/pulls) com sua alteração.
