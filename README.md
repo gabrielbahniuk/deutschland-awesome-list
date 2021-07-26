@@ -1,7 +1,7 @@
 # Lista útil válida para a Alemanha :de: :book:
 
 ### Objetivo
-Esta lista tem por único objetivo facilitar a vinda de brasileiros(as) (ou falantes da lingua portuguesa) que desejam vir para a Alemanha.
+Esta lista tem por único objetivo facilitar a vinda de brasileiros(as) (ou falantes da lingua portuguesa) que desejam morar na Alemanha.
 
 ### Lista
 - [Advocacia](./pt_br/pages/advocacia.md)
@@ -16,6 +16,7 @@ Esta lista tem por único objetivo facilitar a vinda de brasileiros(as) (ou fala
 ### Listas semelhantes
 
 - [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
+- [Equivalentes Brasil/Alemanha](https://github.com/diessica/equivalentes-brasil-alemanha)
 
 ### Contribua!
-Tem alguma sugestão? [Clique aqui!](./CONTRIBUTING.md)
+Para contribuir [clique aqui!](./CONTRIBUTING.md)
