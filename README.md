@@ -13,5 +13,9 @@ Esta lista tem por único objetivo facilitar a vinda de brasileiros(as) ou falan
 - [Produtos & Serviços](./pt_br/pages/produtos-e-servicos.md)
 - [Saúde](./pt_br/pages/saude.md)
 
+### Listas semelhantes
+
+- [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
+
 ### Contribua!
 Tem alguma sugestão? [Clique aqui!](./CONTRIBUTING.md)
