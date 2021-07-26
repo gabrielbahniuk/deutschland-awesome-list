@@ -1,7 +1,7 @@
 # Lista útil válida para a Alemanha :de: :book:
 
 ### Objetivo
-Esta lista tem por único objetivo facilitar a vinda de brasileiros(as) ou falantes da lingua portuguesa para a Alemanha.
+Esta lista tem por único objetivo facilitar a vinda de brasileiros(as) (ou falantes da lingua portuguesa) que desejam vir para a Alemanha.
 
 ### Lista
 - [Advocacia](./pt_br/pages/advocacia.md)
